@@ -1,0 +1,30 @@
+2026-11-13 14:43:00,328 - INFO - Агент запущен
+2026-11-13 14:43:38,733 - INFO - Запрос отправлен
+2026-11-13 14:43:38,736 - ERROR - Ошибка API: Unknown scheme for proxy URL URL('socks4://127.0.0.1:10808')
+2026-11-13 14:44:02,866 - INFO - Агент запущен
+2026-11-13 14:44:16,766 - INFO - Запрос отправлен
+2026-11-13 14:44:16,769 - ERROR - Ошибка API: Unknown scheme for proxy URL URL('socks4://127.0.0.1:10808')
+2026-11-13 14:47:03,911 - INFO - Запрос отправлен
+2026-11-13 14:47:03,912 - ERROR - Ошибка API: Unknown scheme for proxy URL URL('socks4://127.0.0.1:10808')
+2026-11-13 14:47:11,677 - INFO - Запрос отправлен
+2026-11-13 14:47:11,678 - ERROR - Ошибка API: Unknown scheme for proxy URL URL('socks4://127.0.0.1:10808')
+2026-11-13 14:47:19,292 - INFO - Запрос отправлен
+2026-11-13 14:47:19,636 - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2026-11-13 14:47:19,994 - INFO - HTTP Request: POST https://api.giga.chat/v2/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 14:47:19,997 - INFO - Ответ получен
+2026-11-13 14:47:25,013 - INFO - Запрос отправлен
+2026-11-13 14:47:25,247 - INFO - HTTP Request: POST https://api.giga.chat/v2/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 14:47:25,249 - INFO - Ответ получен
+2026-11-13 14:47:40,870 - INFO - Запрос отправлен
+2026-11-13 14:47:42,271 - INFO - HTTP Request: POST https://api.giga.chat/v2/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 14:47:42,272 - INFO - Ответ получен
+2026-11-13 14:47:53,932 - INFO - Запрос отправлен
+2026-11-13 14:47:56,741 - INFO - HTTP Request: POST https://api.giga.chat/v2/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 14:47:56,743 - INFO - Ответ получен
+2026-11-13 14:48:15,053 - INFO - Запрос отправлен
+2026-11-13 14:48:16,629 - INFO - HTTP Request: POST https://api.giga.chat/v2/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 14:48:16,630 - INFO - Ответ получен
+2026-11-13 14:48:32,322 - INFO - Запрос отправлен
+2026-11-13 14:48:32,656 - INFO - HTTP Request: POST https://api.giga.chat/v2/chat/completions "HTTP/1.1 200 OK"
+2026-11-13 14:48:32,657 - INFO - Ответ получен
+2026-11-13 14:48:45,817 - INFO - Выход
